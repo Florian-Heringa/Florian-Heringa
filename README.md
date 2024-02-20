@@ -1,5 +1,9 @@
 <!--
-**Florian-Heringa/Florian-Heringa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Resources for md:
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- https://github.github.com/gfm/#html-blocks
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Here are some ideas to get you started:
 
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 
 👋 HI
 
-My name is Florian, currently working in technical support as TwinCAT HMI Product Specialist. I plan to have a bunch of interesting samples available here, so I'd be happy to take suggestions!
+My name is Florian, currently working in technical support as TwinCAT HMI Product Specialist where I am learning a lot about web frameworks. I plan to have a bunch of interesting samples available here, so I'd be happy to take suggestions!
 
 Additionally I have an interest in programming in general, music and 3D art. Especially combining these disciplines for various results and reasons is something I really enjoy.
 
@@ -46,3 +50,20 @@ And always happy to have some constructive discussion or cool collaborations!
 | ------------- |:-------------:| :----------------------------|
 | RayTracingFromTheGroundUp | [link](https://github.com/Florian-Heringa/RayTracingFromTheGroundUp) | Working repository for a python implementation of Raytracing From The Ground Up by Kevin Suffern |
 | Blender-UsePip | [link](https://github.com/Florian-Heringa/Blender-UsePip) | Quick and dirty integration menu for easily adding packages to the blender installed python, mostly used as a practice tool for me to understand how to add menu items to the UI |
+
+<div align="center">
+  <h2>Creative</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,blender,unity" />
+  </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img height="48" width="48" src="https://cdn.simpleicons.org/davinciresolve/lightgray" /></a>
+  <a href="https://www.reaper.fm/"><img height="48" width="48" src="https://static-00.iconduck.com/assets.00/logo-reaper-icon-492x512-lgpq3ul5.png" /></a>
+  <h2>Coding</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,visualstudio,vscode,django,py,pytorch,html,css,js,ts,cs,dotnet" />
+  </a>
+  <h2>Want to learn</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elixir,rust,haskell,tensorflow" />
+  </a>
+</div>
