@@ -4,6 +4,9 @@ Resources for md:
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://github.github.com/gfm/#html-blocks
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog
+- https://shields.io/
+- https://github.com/Ileriayo/markdown-badges
 
 Here are some ideas to get you started:
 
