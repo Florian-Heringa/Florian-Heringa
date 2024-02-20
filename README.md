@@ -51,6 +51,12 @@ And always happy to have some constructive discussion or cool collaborations!
 | RayTracingFromTheGroundUp | [link](https://github.com/Florian-Heringa/RayTracingFromTheGroundUp) | Working repository for a python implementation of Raytracing From The Ground Up by Kevin Suffern |
 | Blender-UsePip | [link](https://github.com/Florian-Heringa/Blender-UsePip) | Quick and dirty integration menu for easily adding packages to the blender installed python, mostly used as a practice tool for me to understand how to add menu items to the UI |
 
+## AI and ML
+
+| Repository name        | Find it here           | Short description  |
+| ------------- |:-------------:| :----------------------------|
+| ML_SVC_Generator| [link](https://github.com/Florian-Heringa/ML_SVC_Generator) | SVC implementation using sklearn, with data generation and onnx export (ipynb) |
+
 <div align="center">
   <h2>Creative</h2>
   <a href="https://skillicons.dev">
