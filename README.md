@@ -73,6 +73,7 @@ And always happy to have some constructive discussion or cool collaborations!
   </a>
   <h2>Want to learn</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,rust,haskell,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=julia,elixir,rust,haskell,tensorflow" />
+    <a href="https://cmajor.dev/"><img height="48" width="48" src="https://soundstacks.gallerycdn.vsassets.io/extensions/soundstacks/cmajor/0.9.2311/1708361565673/Microsoft.VisualStudio.Services.Icons.Default" /></a>
   </a>
 </div>
