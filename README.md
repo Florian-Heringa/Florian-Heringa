@@ -53,6 +53,7 @@ And always happy to have some constructive discussion or cool collaborations!
 | ------------- |:-------------:| :----------------------------|
 | RayTracingFromTheGroundUp | [link](https://github.com/Florian-Heringa/RayTracingFromTheGroundUp) | Working repository for a python implementation of Raytracing From The Ground Up by Kevin Suffern |
 | Blender-UsePip | [link](https://github.com/Florian-Heringa/Blender-UsePip) | Quick and dirty integration menu for easily adding packages to the blender installed python, mostly used as a practice tool for me to understand how to add menu items to the UI |
+| viewLayerRenderSync-blender-addon  | [link](https://github.com/Florian-Heringa/viewLayerRenderSync-blender-addon) | Quick addon to sync view layers to render paths | 
 
 ## AI and ML
 
