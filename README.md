@@ -38,6 +38,7 @@ And always happy to have some constructive discussion or cool collaborations!
 | Repository name        | Find it here           | Short description  |
 | ------------- |:-------------:|:-----|
 | twincat-hmi-plc-events-basics      | [link](https://github.com/Florian-Heringa/twincat-hmi-plc-events-basics) | Small project showing the interaction between TC PLC and TC HMI with event communication |
+| TcHmi-UserControlToFWControl | [link](https://github.com/Florian-Heringa/TcHmi-UserControlToFWControl) | Quick example of a possible conversion between TwinCAT HMI user control and Framework control |
 | twincat-micro-machine-simulation      | [link](https://github.com/Florian-Heringa/twincat-micro-machine-simulation)      |   Very basic introduction to PLC programming in TwinCAT |
 | pyads-example | [link](https://github.com/Florian-Heringa/pyads-example)      |  Introduction to python wrapper for ADS communication with some use case examples |
 
