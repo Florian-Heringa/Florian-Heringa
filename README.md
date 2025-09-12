@@ -50,6 +50,11 @@ Some projects I am currently working on:
     <tr>
       <td><a href="https://github.com/Florian-Heringa/python-midi-monitor">Python Browser Midi monitor</a></td>
       <td>Locally running MIDI monitor in the browser using mido and nicegui</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Florian-Heringa/webcomponents-example">Webcomponents example</a></td>
+      <td>Example in pure html/js with comments and explanation of how webcomponents work. Shows all features necessary to use understand the webcomponents side of a cmajor UI.</td>
+    </tr>
   </tbody>
 </table>
 
