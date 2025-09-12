@@ -1,58 +1,26 @@
-<!--
-
-Resources for md:
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-- https://github.github.com/gfm/#html-blocks
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog
-- https://shields.io/
-- https://github.com/Ileriayo/markdown-badges
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 👋 HI
 
-My name is Florian, currently working in technical support as TwinCAT HMI Product Specialist where I am learning a lot about web frameworks. I plan to have a bunch of interesting samples available here, so I'd be happy to take suggestions!
+My name is Florian, currently working  as TwinCAT HMI Product Specialist, working with a full-stack framework in dotnet and javascript. In my free time I like to explore programming and computer science concepts. I like to combine this with my passion for music and 3D art. I am also very interested in Quantum Computing and Information and have written a set of explanatory jupyter notebooks for getting started.
 
-Additionally I have an interest in programming in general, music and 3D art. Especially combining these disciplines for various results and reasons is something I really enjoy.
+Some projects I am currently working on:
 
-I am currently learning:
-- [cmajor](https://github.com/SoundStacks/cmajor)
-- [django](https://github.com/django/django)
-- [pytorch](https://github.com/pytorch/pytorch)
-
-And always happy to have some constructive discussion or cool collaborations!
-
-## TwinCAT
-
-| Repository name        | Find it here           | Short description  |
-| ------------- |:-------------:|:-----|
-| twincat-hmi-plc-events-basics      | [link](https://github.com/Florian-Heringa/twincat-hmi-plc-events-basics) | Small project showing the interaction between TC PLC and TC HMI with event communication |
-| TcHmi-UserControlToFWControl | [link](https://github.com/Florian-Heringa/TcHmi-UserControlToFWControl) | Quick example of a possible conversion between TwinCAT HMI user control and Framework control |
-| twincat-micro-machine-simulation      | [link](https://github.com/Florian-Heringa/twincat-micro-machine-simulation)      |   Very basic introduction to PLC programming in TwinCAT |
-| pyads-example | [link](https://github.com/Florian-Heringa/pyads-example)      |  Introduction to python wrapper for ADS communication with some use case examples |
+| Name | Description |
+| Rust Raytracer | A raytracer based on the description from Raytracing From The Ground Up by Kevin Suffern, implemented in Rust. |
+| Python/Rust Lox | An implementation of the Lox example language from Crafting Interpreters bt Robert Nystrom. |
+| Quantum Information Basics | A set of notebooks explaining the basic theory and practice behind some popular QI frameworks. |
+<!-- | my own website | -->
 
 ## Music
 
 | Repository name        | Find it here           | Short description  |
-| ------------- |:-------------:| :----------------------------|
+| -------------          |:-------------:         | :----------------------------|
 | Cmajor-SimpleFixedDelay| [link](https://github.com/Florian-Heringa/Cmajor-SimpleFixedDelay) | Basic implementation of a fixed delay line in [cmajor](https://github.com/SoundStacks/cmajor) |
+<!-- | webcomponents tutorial for Cmajor | -->
 
 ## 3D Art (and tools)
 
 | Repository name        | Find it here           | Short description  |
 | ------------- |:-------------:| :----------------------------|
-| RayTracingFromTheGroundUp | [link](https://github.com/Florian-Heringa/RayTracingFromTheGroundUp) | Working repository for a python implementation of Raytracing From The Ground Up by Kevin Suffern |
 | Blender-UsePip | [link](https://github.com/Florian-Heringa/Blender-UsePip) | Quick and dirty integration menu for easily adding packages to the blender installed python, mostly used as a practice tool for me to understand how to add menu items to the UI |
 | viewLayerRenderSync-blender-addon  | [link](https://github.com/Florian-Heringa/viewLayerRenderSync-blender-addon) | Quick addon to sync view layers to render paths | 
 
@@ -61,6 +29,7 @@ And always happy to have some constructive discussion or cool collaborations!
 | Repository name        | Find it here           | Short description  |
 | ------------- |:-------------:| :----------------------------|
 | ML_SVC_Generator| [link](https://github.com/Florian-Heringa/ML_SVC_Generator) | SVC implementation using sklearn, with data generation and onnx export (ipynb) |
+<!-- | Multiple AI/ML test projects | -->
 
 <div align="center">
   <h2>Creative</h2>
@@ -79,3 +48,12 @@ And always happy to have some constructive discussion or cool collaborations!
     <a href="https://cmajor.dev/"><img height="48" width="48" src="https://soundstacks.gallerycdn.vsassets.io/extensions/soundstacks/cmajor/0.9.2311/1708361565673/Microsoft.VisualStudio.Services.Icons.Default" /></a>
   </a>
 </div>
+
+## TwinCAT
+
+| Repository name        | Find it here           | Short description  |
+| -------------          |:-------------:         |:-----|
+| twincat-hmi-plc-events-basics      | [link](https://github.com/Florian-Heringa/twincat-hmi-plc-events-basics) | Small project showing the interaction between TC PLC and TC HMI with event communication |
+| TcHmi-UserControlToFWControl | [link](https://github.com/Florian-Heringa/TcHmi-UserControlToFWControl) | Quick example of a possible conversion between TwinCAT HMI user control and Framework control |
+| twincat-micro-machine-simulation      | [link](https://github.com/Florian-Heringa/twincat-micro-machine-simulation)      |   Very basic introduction to PLC programming in TwinCAT |
+| pyads-example | [link](https://github.com/Florian-Heringa/pyads-example)      |  Introduction to python wrapper for ADS communication with some use case examples |
