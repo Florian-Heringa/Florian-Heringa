@@ -53,7 +53,7 @@ Some projects I am currently working on:
   </tbody>
 </table>
 
-## 3D Art (and tools)
+## Art
 
 <table style="width:100%">
   <thead>
