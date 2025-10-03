@@ -1,6 +1,6 @@
 👋 HI
 
-My name is Florian, currently working  as TwinCAT HMI Product Specialist, working with a full-stack framework in dotnet and javascript. In my free time I like to explore programming and computer science concepts, which I like to combine with my passion for music and 3D art. I am also very interested in Quantum Computing and Information and have written a set of explanatory jupyter notebooks for getting started.
+My name is Florian, currently working  as TwinCAT HMI Product Specialist, working with a full-stack framework in dotnet and javascript. In my free time I like to explore programming and computer science concepts, which I like to combine with my passion for music and 3D art. I am also very interested in Quantum Computing and Information and am currently writing a set of explanatory jupyter notebooks for getting started.
 
 Some projects I am currently working on:
 
