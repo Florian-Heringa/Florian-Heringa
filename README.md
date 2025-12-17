@@ -6,7 +6,7 @@ Some projects I am currently working on:
 
 | Name | Description |
 | :-------------  |:-------------         |
-| Rust Raytracer | A raytracer based on the description from Raytracing From The Ground Up by Kevin Suffern, implemented in Rust. |
+| [Rust Raytracer](https://github.com/Florian-Heringa/py-rs-raytracer) | A raytracer based on the description from Raytracing From The Ground Up by Kevin Suffern, implemented in Rust. |
 | [Python/Rust Lox](https://github.com/Florian-Heringa/crafting-interpreters) | An implementation of the Lox example language from Crafting Interpreters by Robert Nystrom in Python and Rust. |
 | [Quantum Information Basics in Qiskit](https://github.com/Florian-Heringa/quantum-frameworks-python-exploration/tree/main/Python/Qiskit) | A set of notebooks explaining the basic theory and practice behind some popular QI frameworks. Expanded version of tutorials provided by IBM. |
 <!-- | my own website | -->
